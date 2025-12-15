@@ -30,6 +30,7 @@ const pressButton = (button, joltage, presses) => {
 
 /**
  * THIS WORKS but it is TOO SLOW. I'll come back with a faster solution later. I have some ideas...
+ * Edit: see part-2-alt.js
  * @param {number[][]} buttons
  * @param {number[]} joltage
  * @return {number}
